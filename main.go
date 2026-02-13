@@ -36,7 +36,7 @@ func configWatcher() {
 	viper.SetDefault("sleep.duration", 10)
 
 	if err := viper.ReadInConfig(); err != nil {
-		fmt.Println("File config not found:", err)
+		fmt.Println("Config file not found:", err)
 	}
 
 	viper.WatchConfig()
