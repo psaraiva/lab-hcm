@@ -1,0 +1,6 @@
+{
+    "name": "Example Configuration",
+    "sleep": {
+        "duration": 2
+    }
+}
