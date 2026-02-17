@@ -1,9 +1,9 @@
 # 🔥 Hot Configuration Management
 
-[![project](https://img.shields.io/badge/github-psaraiva%2Flab-hcm-blue)](https://img.shields.io/badge/github-psaraiva%2F-lab-hcm-blue)
+[![project](https://img.shields.io/badge/github-psaraiva%2Flab-hcm)](https://img.shields.io/badge/github-psaraiva%2F-lab-hcm)
 [![License](https://img.shields.io/badge/license-MIT-%233DA639.svg)](https://opensource.org/licenses/MIT)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/psaraiva/lab-hcm?style=flat)](https://goreportcard.com/report/github.com/psaraiva/lab-hcm)
+[![Go Report Card](https://goreportcard.com/badge/github.com/psaraiva/lab-hcm)](https://goreportcard.com/report/github.com/psaraiva/lab-hcm)
 
 [![Language: English](https://img.shields.io/badge/Idioma-English-blue?style=flat-square)](./README.md)
 
