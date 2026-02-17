@@ -3,7 +3,7 @@
 [![project](https://img.shields.io/badge/github-psaraiva%2Flab-hcm-blue)](https://img.shields.io/badge/github-psaraiva%2F-lab-hcm-blue)
 [![License](https://img.shields.io/badge/license-MIT-%233DA639.svg)](https://opensource.org/licenses/MIT)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/psaraiva/lab-hcm?style=flat)](https://goreportcard.com/report/github.com/psaraiva/lab-hcm)
+[![Go Report Card](https://goreportcard.com/badge/github.com/psaraiva/lab-hcm)](https://goreportcard.com/report/github.com/psaraiva/lab-hcm)
 
 [![Language: Português](https://img.shields.io/badge/Language-Portugu%C3%AAs-blue?style=flat-square)](./README_pt_br.md)
 
